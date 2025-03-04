@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     default: "lilianmahut.dev",
     template: "%s | lilianmahut.dev",
   },
-  description: "Développeur web passionné",
+  description: "Développeur web freelance",
   openGraph: {
     title: "lilianmahut.dev",
     description:
-      "Ouvert à toute nouvelle offre de poste.",
+      "Ouvert à relever votre prochain défi.",
     url: "https://lilianmahut.dev",
     siteName: "lilianmahut.dev",
     images: [
